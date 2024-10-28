@@ -4,7 +4,7 @@
 font=wildcrazy
 # data=validation
 
-for i in $(seq 1 6);
+for i in $(seq 1 7);
 do
     echo $i
     python3 preprocess.py --input "training/$font/$i" --output "preprocessed/training/$font/$i"
