@@ -1,8 +1,7 @@
 captchas/*
 .*ipynb
 test_ans.csv
-preprocessed/training/wildcrazy/*
-preprocessed/validation/wildcrazy/*
-preprocessed/captchas/*
+preprocessed/*
+notebooks/*
 training/wildcrazy/*
 validation/wildcrazy/*
